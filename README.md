@@ -1,0 +1,2 @@
+# soincoin
+SoinCoin master developmnet
